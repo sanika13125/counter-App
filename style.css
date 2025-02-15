@@ -1,0 +1,37 @@
+        * {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+        }
+        
+        .counter-container {
+            background-color: plum;
+            font-size: 30px;
+            text-align: center;
+        }
+        
+        #increase {
+            color: blueviolet;
+            padding: 20px;
+            width: 150px;
+            margin: 20px;
+            border: 8px solid black;
+            border-radius: 10px;
+        }
+        
+        #decrease {
+            color: #2ba8e2;
+            padding: 20px;
+            width: 150px;
+            margin: 20px;
+            border: 8px solid black;
+            border-radius: 10px;
+        }
+        
+        #reset {
+            color: #681059;
+            padding: 20px;
+            width: 150px;
+            margin: 20px;
+            border: 8px solid black;
+            border-radius: 10px;
+        }
